@@ -1,2 +1,2 @@
-# SHangout
-Learn it, add something and have fun with this thing! :)
+# VIT Connect
+A simple social media connection for students in a campus.
